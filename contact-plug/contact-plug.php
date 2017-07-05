@@ -1,12 +1,11 @@
 <?php 
 /*
 Plugin Name: Contact Plug
-Plugin URI: https://akismet.com/
+Plugin URI : http:rootfly.info
 Description: Simple Contact Form
 Version: 3.3
 Author: Sonia Bajpai
 License: GPLv2 or later
-Text Domain: akismet
 */
 
 register_activation_hook( __FILE__, 'jal_install' );
